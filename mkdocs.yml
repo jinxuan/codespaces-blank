@@ -1,0 +1,8 @@
+site_name: /mkdocs-material
+
+theme:
+  name: 'material'
+
+nav:
+  - Get Started: index.md
+  
