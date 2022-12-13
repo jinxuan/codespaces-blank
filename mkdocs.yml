@@ -1,8 +1,8 @@
-site_name: /mkdocs-material
+site_name: mkdocs-material
 
 theme:
   name: 'material'
 
 nav:
   - Get Started: index.md
-  
+  - Step 1: step1.md
